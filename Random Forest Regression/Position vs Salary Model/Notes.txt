@@ -1,0 +1,7 @@
+Random Forest Regression - salary expectation based on role & level
+
+1. Import required packages(numpy,pandas,matplotlib,sklearn) 
+2. Read the dataset 
+3. split the data based on x & y
+4. Fitting Random Forest Regression to the dataset 
+5.Visulizing the Random Forest Regression to the dataset.
