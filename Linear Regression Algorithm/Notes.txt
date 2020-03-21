@@ -1,7 +1,1 @@
-Simple Linear Regression - Salary expectation based on years of experience
-
-1. Import required packages(numpy,pandas,sklearn,matplotlib)
-2. Read the dataset 
-3. we need to split the data based on independent (x) and dependent variables(y)
-4. Divide the complete dataset(df) into train & test dataset.
-5. Implement our classifier based on simple Linear Regression
+Exploring more on Simple Linear Regression Algorithm
