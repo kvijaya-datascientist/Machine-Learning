@@ -1,0 +1,8 @@
+
+Below are the some of pre process steps before creating the model
+1. Importing the required libraries
+2.reading the dataset
+3.splitting the data into independent & depaendent variables
+4.handling missing data
+5.splitting the data into train & test datasets
+6.feature scalling
