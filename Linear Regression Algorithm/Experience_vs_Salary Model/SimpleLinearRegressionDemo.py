@@ -24,8 +24,11 @@ x_train,x_test,y_train,y_test = train_test_split(x,y,test_size=0.2,random_state=
 #fitting simple linear regression model to train dataset
 from sklearn.linear_model import LinearRegression
 reg_train = LinearRegression().fit(x_train,y_train)
+
+#Predecting y_test results using model
 pred_ytest = reg_train.predict(x_test)
 
+#Predecting  the salary for 9 & 12 years experience
 y9 = reg_train.predict([[9]])
 y12 = reg_train.predict([[12]])
 
