@@ -1,0 +1,6 @@
+1. import required libraries
+2. Reading the dataset
+3.Encoding the independent varaible(State)
+4.Splitting the dataset into train & test sets
+5.Fitting Multiple Linear Regression model to train set
+6.Predecting the test set results
